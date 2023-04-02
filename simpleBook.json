@@ -75,7 +75,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"bookId\": 1,\r\n    \"customerName\": \"Nakamura\"\r\n}",
+					"raw": "{\r\n\"bookId\":\"{{bookId}}\",\r\n\"customerName\":\"Nakamura\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
